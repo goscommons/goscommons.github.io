@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "Where are we now"
 date: 2018-03-16
 ---
