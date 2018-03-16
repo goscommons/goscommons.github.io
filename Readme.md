@@ -9,7 +9,7 @@ Become a contributor and find a role that matches your capabilities [read more..
 
 Donate to [our campaign](https://www.youcaring.com/gocommons-1085010) and get our illustrated book about open source and p2p as a thank for being part of our community.
 
-![](_assets/Card_Title.png)
+![](_assets/images/Card_Title.png)
 
 ### Want to know more about the project and where we are?
 Leave a comment or visit [our website](https://goscommons.github.io).
