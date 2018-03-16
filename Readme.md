@@ -4,7 +4,12 @@
 Currently it is a research and development project, that aims to share and publish source code, hardware electronics, CAD models and materials to manufacture, but also improve open designs for home appliances.
 ### Why open hardware appliances
 Open access to the knowledge and DNA of goods, services and products, allow us to enjoy social wealth and share responsibility. Having a commons oriented economy where the knowhow is shared as a fundamental right to act for the common good, prosperity and development is a key element in sustainable development. Open hardware empowers consumers, and producers, but also impact makers, local economies and communities. Moreover it facilitates the repair of things, the systematic, organized and collaborative improvements, of designs in a balanced way. Free/libre software and open source practices has empowered tremendously many people, the same can happen with hardware. It is happening more and more.
-### Get involve
+### Get involved
 Become a contributor and find a role that matches your capabilities [read more...](https://goscommons.github.io)
 
-Donate to [our campaign](https://www.youcaring.com/gocommons-1085010) and get our illustrated book about open source as a perk
+Donate to [our campaign](https://www.youcaring.com/gocommons-1085010) and get our illustrated book about open source and p2p as a thank for being part of our community.
+
+![](_assets/Card_Title.png)
+
+### Want to know more about the project and where we are?
+Leave a comment or visit [our website](https://goscommons.github.io).
