@@ -35,7 +35,7 @@ What can you do if you don't find an issue Ask to the community, propose a new i
 
 ### 2. Initiate a new design repository to start documenting a new machine.
 
-.  If you are comfortable and feel you have what it takes to take over the design documentation of a particular machine, this is for you.
+> .  If you are comfortable and feel you have what it takes to take over the design documentation of a particular machine, this is for you.
 
 . If you feel you need to learn a lot but still you are committed to push forward the documentation of a machine, we will help you to get started. You could also get experience by working with a team, already lifting the champion flag to start a new repo.
 
