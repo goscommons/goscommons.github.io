@@ -7,7 +7,7 @@ Currently it is a research and development project, that aims to share and publi
 * Moreover the free access to the design of things, facilitates their repair, as well as the systematic, organized and collaborative improvement of such design coming from users all over the world.
 * Free/libre software and open source practices has empowered tremendously many people, the same can happen with hardware. It is happening more and more.
 ### Get involved
-[Become a contributor and find a role that matches your capabilities] (https://github.com/goscommons/goscommons.github.io/blob/master/CONTRIBUTING.md)
+[Become a contributor and find a role that matches your capabilities](https://github.com/goscommons/goscommons.github.io/blob/master/CONTRIBUTING.md)
 ![The open design workflow](_assets/images/workflow.png)
 
 ### Want to know more about the project and where we are?
