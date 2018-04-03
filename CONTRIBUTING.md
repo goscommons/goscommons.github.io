@@ -28,7 +28,7 @@ Go to the project repository, to the issues section, and see what has been poste
 
 #### 1.3. You have finished your design documentation piece of work. Make a pull request and get feedback from your peers. This is the last step to finally get your work published, ready to be used and improved by others.
 
-Celebrate and get inspired! Go back to step 1.2 and find a new exciting issue to solve.**
+> Celebrate and get inspired! Go back to step 1.2 and find a new exciting issue to solve.**
 
 What can you do if you don't find an issue Ask to the community, propose a new issue towards fulfilling the design documentation  milestones.
 
@@ -37,11 +37,11 @@ What can you do if you don't find an issue Ask to the community, propose a new i
 
 > .  If you are comfortable and feel you have what it takes to take over the design documentation of a particular machine, this is for you.
 
-. If you feel you need to learn a lot but still you are committed to push forward the documentation of a machine, we will help you to get started. You could also get experience by working with a team, already lifting the champion flag to start a new repo.
+> . If you feel you need to learn a lot but still you are committed to push forward the documentation of a machine, we will help you to get started. You could also get experience by working with a team, already lifting the champion flag to start a new repo.
 
-. If you are a technically skilled person and want to go to a next level of community and project management, using lean and scrum, this is a good start.
+> . If you are a technically skilled person and want to go to a next level of community and project management, using lean and scrum, this is a good start.
 
-. If you are a good manager, and have experience with open workflows, and community management, and this is how you can better contribute this is also for you.
+> . If you are a good manager, and have experience with open workflows, and community management, and this is how you can better contribute this is also for you.
 
 #### 2.1. Submit an issue mentioning the machine design you want to start documenting.
 
@@ -49,10 +49,10 @@ What can you do if you don't find an issue Ask to the community, propose a new i
 Take a look at the [Open-Design-Template repository](https://github.com/goscommons/Open-Design-Template/wiki) we have to make things easier for you. The template we are providing you with is inspired by the *Project Structure Guidelines* proposed by the [Open Hardware Repository](https://www.ohwr.org/projects/ohr-support/wiki/project-structure-guidelines).
 
 #### 2.3. Study and master the open design documentation standards.**
-The template
+The template that we provide you with includes, a readme file, and also guidelines for specific documentation guidelines. This includes checklists, files and folder structures, as well as standards to assess the level of completion for the specific repository.
 
 Assessing the maturity of a repository, and level of readiness for replication.
 
-## 3.Are you a media person? a blogger? writer? translator? graphic designer? creative developer? Activist? content creator?
+### 3.Are you a media person? a blogger? writer? translator? graphic designer? creative developer? Activist? content creator?
 
 CONTACT US WE WILL FIND SOMETHING TO DO TOGETHER USING THE SKILLS YOU HAVE via goscommons@gmail.com
