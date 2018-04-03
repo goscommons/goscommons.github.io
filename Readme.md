@@ -11,8 +11,8 @@ Currently it is a research and development project, that aims to share and publi
 ![The open design workflow](_assets/images/workflow.png)
 
 ### Want to know more about the project and where we are?
-Leave a comment or visit [our website](https://goscommons.github.io).
+### Visit [our website](https://goscommons.github.io)and our [roadmap](https://github.com/goscommons/goscommons.github.io/projects/1).
 
-Donate to [our campaign](https://www.youcaring.com/gocommons-1085010) and get our illustrated book about open source and p2p as a thank for being part of our community.
+##Donate to [our campaign](https://www.youcaring.com/gocommons-1085010) and get our illustrated book about open source and p2p as a thank for being part of our community.
 
 ![](_assets/images/Card_Title.png)
