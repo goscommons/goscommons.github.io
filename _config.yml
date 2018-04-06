@@ -17,7 +17,7 @@ title: GO!commons
 email: goscommons@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The open source appliances initiative aims to bring open hardware in the domain of consumer goods, to accelerate sustainable development
-baseurl: "/example" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "goscommons.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  goscommons
 
