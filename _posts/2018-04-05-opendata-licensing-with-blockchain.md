@@ -15,10 +15,11 @@ Opendata (very similar to open source projects, and thus an analogy for data) is
 ### Blockchain
 Blockchain is in simple terms a ledger or a database. Now look at the image below – this is how wikipedia works – everyone updates a master copy on a central server.
 
-{{ "/assets/cent_database.jpg" | absolute_url }}
+{{ "/assets/cent_database.png" | absolute_url }}
+
 Blockchain has information recorded not at a central server, but in a distributed form – simply, there is no “master-copy” of this data recorded on this database. What it allows is for many people to write into it, and a community of users can update and amend this database. Now, note that this is no new technology, but combination of trust-enhancing cryptography tools, P2P network (basically a distributed network) – allowing ease of authentication an authorization. The following diagram might make it more clear.
 
-{{ "/assets/dis_database.jpg" | absolute_url }}
+{{ "/assets/dis_database.png" | absolute_url }}
 
 Now there is one more wonderful feature of blockchain, introduced by ethereum, and that is smart contract. What smart contract does it that it make users to stick to “contracts” or regulations/ obligations while using a blockchain platform. So it not only defines the traditional contracts, but also enforce them because it is coded on the blockchain. For example, A can transfer money on a blockchain platform to B or vice versa only if they fulfill the condition of the smart contract of that platform (the condition can be as simple as that the money with A > 0). These contracts might need approval of many or just the two people in transaction, and it also helps storing the information/ records of the transactions (though members remain anonymous).
 
