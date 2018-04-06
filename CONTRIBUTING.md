@@ -43,7 +43,7 @@ What can you do if you don't find an issue Ask to the community, propose a new i
 
 > . If you are a good manager, and have experience with open workflows, and community management, and this is how you can better contribute this is also for you.
 
-#### 2.1. Submit an issue mentioning the machine design you want to start documenting.
+#### 2.1. Submit an "issue" (secont tab on the tool bar) and  mention the machine design you want to start documenting. Share your email on the issue so that we can communicate and contact you.
 
 #### 2.2. Replicate open design repo template to start documenting your machine.**
 Take a look at the [Open-Design-Template repository](https://github.com/goscommons/Open-Design-Template/wiki) we have to make things easier for you. The template we are providing you with is inspired by the *Project Structure Guidelines* proposed by the [Open Hardware Repository](https://www.ohwr.org/projects/ohr-support/wiki/project-structure-guidelines).
