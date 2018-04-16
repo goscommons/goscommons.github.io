@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <!-- <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> -->
-		<img src="_assets/images/logo.png" alt="logo">
+		<img src="logo.png" alt="logo" style="width:300px">
     {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
