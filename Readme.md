@@ -8,6 +8,7 @@ Currently it is a research and development project, that aims to share and publi
 * Free/libre software and open source practices has empowered tremendously many people, the same can happen with hardware. It is happening more and more.
 ### Get involved
 ### [Read the contributing guidelines](https://github.com/goscommons/goscommons.github.io/blob/master/CONTRIBUTING.md)
+### [Read our code of conduct] (https://github.com/goscommons/goscommons.github.io/blob/master/CODE_OF_CONDUCT.md)
 ![The open design workflow](_assets/images/workflow.png)Become a contributor and find a role that matches your capabilities.
 
 ### Want to know more about the project and where we are?
