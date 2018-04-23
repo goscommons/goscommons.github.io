@@ -1,6 +1,7 @@
 # Hi! We warmly welcome you to the main repository of the Open Source things initiative
-## This is an open hardware project focused on the design and development of open hardware products.
-Currently it is a research and development project, that aims to share and publish source code, hardware electronics, CAD models and materials to manufacture, but also improve open designs for commercial products from consumer electronics to industrial machines.
+## This is a project focused on the design documentation and development of open hardware products. See our intro poster, to get a quick insight on what this is about.
+![](_assets/images/intro_poster.jpg)
+
 ### Why open hardware appliances and industrial machines
 * Open access to the knowledge and DNA of goods, services and products, allow us to enjoy social wealth and share responsibility.
 * Having a commons oriented economy where the knowhow is shared as a fundamental right to act for the common good, prosperity and development is a key element in sustainable development. Open hardware empowers consumers, and producers, but also impact makers, local economies and communities.
