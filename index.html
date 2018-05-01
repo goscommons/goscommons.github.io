@@ -4,14 +4,30 @@
 	<meta charset="utf-8">
 	<title></title>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css">
-	<link rel="stylesheet" href="assets/custom.css">
+	<link rel="stylesheet" href="_assets/custom.css">
+
+	<script src="assets/library/jquery.min.js"></script>
+	<script src="../dist/components/visibility.js"></script>
+	<script src="../dist/components/sidebar.js"></script>
+	<script src="../dist/components/transition.js"></script>
+	<script>
+	$(document)
+	.ready(function() {
+		// fix menu when passed
+		// create sidebar and attach to menu open
+		$('.ui.sidebar')
+		.sidebar('attach events', '.toc.item')
+		;
+	})
+	;
+	</script>
 </head>
 <body>
 	<!-- Following Menu -->
-	<div class="ui large top fixed hidden menu">
+	<div class="ui large top inverted massive fixed menu">
 		<div class="ui container">
-			<a class="active item">Home</a>
-			<a class="item">About</a>
+			<!-- <a class="active item">Home</a> -->
+			<a class="item" href="#1">About GO!Commons</a>
 			<a class="item">Why open design</a>
 			<a class="item">How it works</a>
 		</div>
@@ -20,62 +36,58 @@
 	<!-- Sidebar Menu -->
 	<div class="ui vertical sidebar menu">
 		<a class="active item">Home</a>
-		<a class="item">Work</a>
-		<a class="item">Company</a>
-		<a class="item">Careers</a>
-		<a class="item">Login</a>
-		<a class="item">Signup</a>
-	</div>
+		<a class="item">About</a>
+		<a class="item">Why open design</a>
+		<a class="item">How it works</a>
 
+	</div>
 
 	<!-- Page Contents -->
 	<div class="pusher">
 		<div class="banner">
-		<div class="ui vertical masthead center aligned segment">
+			<div class="layer">
+				<div class="ui vertical masthead center aligned segment">
+					<div class="ui container">
+					</div>
+					<div class="ui text container">
 
-			<div class="ui container">
-				<div class="ui large secondary pointing menu">
-					<a class="toc item">
-						<i class="sidebar icon"></i>
-					</a>
-					<a class="active item">Home</a>
-					<a class="item">About</a>
-					<a class="item">Why open design</a>
-					<a class="item">How it works</a>
-				</div>
-			</div>
+						<div class="" style="height:120px;">
+						</div>
+						<div class="ui massive centered fluid image">
+							<img class="whitebg" src="_assets/img/logo_2.png" alt="">
+						</div>
 
-			<div class="ui text container">
-				<!-- <h1 class="ui inverted header">
-					GO!Commons
-				</h1> -->
-				<div class="" style="height:150px;">
+					</div>
 				</div>
-				<div class="ui massive fluid image">
-					<img src="_assets/images/logo.png" alt="">
-				</div>
-				<h2>Do whatever you want when you want to.</h2>
-				<div class="ui huge primary button">Get Started <i class="right arrow icon"></i></div>
-			</div>
 			</div>
 		</div>
+
 
 		<div class="ui vertical stripe segment">
 			<div class="ui middle aligned stackable grid container">
 				<div class="row">
-					<div class="eight wide column">
-						<h3 class="ui header">We Help Companies and Companions</h3>
-						<p>We can give your company superpowers to do things that they never thought possible. Let us delight your customers and empower your needs...through pure data analytics.</p>
-						<h3 class="ui header">We Make Bananas That Can Dance</h3>
-						<p>Yes that's right, you thought it was the stuff of dreams, but even bananas can be bioengineered.</p>
+					<div class="seven wide column">
+						<div class="ui inverted segment">
+							<h3 class="ui header">What about GO!Commons</h3>
+							<p>We are a group of developers, engineers and designers interested in economic empowerment and sustainable development. We believe open source and common resources are key to make this happen.</br></br>
+							Joining the Community and learning open source is easy. See the OS Microwave project example, read our contribution guidelines, and get started.
+						</p></br>
+							<div class="ui fluid inverted huge button">
+								See our community open canvas
+							</div>
+						</div>
 					</div>
-					<div class="six wide right floated column">
-						<img src="assets/images/wireframe/white-image.png" class="ui large bordered rounded image">
+					<div class="one wide column">
+
 					</div>
-				</div>
-				<div class="row">
-					<div class="center aligned column">
-						<a class="ui huge button">Check Them Out</a>
+					<div class="eight wide right floated column">
+						<iframe width="100%" height="360" src="https://www.youtube.com/embed/a0ZlbdXBNc0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+						<div class="ui hidden divider"></div>
+						<div class="huge fluid blue ui buttons">
+							<div class="ui labeled icon button"><i class="ui github icon"></i>Microwave Repo</div>
+							<div class="ui button">Contribute</div>
+							<div class="ui button">Wiki</div>
+						</div>
 					</div>
 				</div>
 			</div>
