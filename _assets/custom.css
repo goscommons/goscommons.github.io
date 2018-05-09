@@ -15,7 +15,7 @@ body.pushable>.pusher {
 
 		border-top: 3px;
 		box-shadow: -30px -30px;
-		background-image: url(img/metabolism_7.png);
+		/* background-image: url(img/metabolism_7.png); */
 		background-size:contain;
 		background-repeat: no-repeat;
 		background-color: #666666;
