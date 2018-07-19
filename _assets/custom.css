@@ -1,8 +1,34 @@
+/*
+
+> Style to do list:
+- red header
+- Text of the size of summary
+- Light blue: color: #ccffff
+
+> Components to do list
+- Header with image background
+- Book promo with link to the Book
+- How we do it with tools and workflow
+- Illustration for how we do it
+
+*/
+
 
 /*custom css*/
-.whitebg{
-	 text-shadow: 2px 2px 10px white;
+
+.lblue{
+	color:#ccffff;
 }
+
+/*This one is the background gradient color applied to layer class*/
+.whitebg {
+	/* text-shadow: 2px 2px 10px white; */
+	min-height: 400px;
+	padding: 1em 0em;
+	background: linear-gradient(to right, rgba(18, 18, 255, 0.8) , rgba(255, 25, 10, 0.9));
+}
+
+
 
 .masthead h1.ui.header {
     margin-top: 1em;
@@ -11,6 +37,7 @@
     font-weight: normal;
 }
 
+
 body.pushable>.pusher {
 
 		border-top: 3px;
@@ -18,7 +45,8 @@ body.pushable>.pusher {
 		/* background-image: url(img/metabolism_7.png); */
 		background-size:contain;
 		background-repeat: no-repeat;
-		background-color: #666666;
+		/* background-color: #666666; */
+		/* background: linear-gradient(to right, rgba(138, 18, 255, 0.5) , rgba(255, 166, 38, 0.5)); */
 }
 
 .ui.segment{
@@ -27,7 +55,7 @@ body.pushable>.pusher {
 
 
 
-
+/*The layer class is created to make a parent container to make possible the image background*/
 
 /* .layer {
     background-color: rgba(248, 247, 216, 0.7);
@@ -37,16 +65,15 @@ body.pushable>.pusher {
     width: 100%;
     height: 100%;
 } */
-/* .banner{
-
-		background-image: url(img/metabolism.png);
+.banner{
+		background-image: url(img/bg.jpg);
 		background-size:cover;
-
-
-} */
+|
+}
 
 /*original css*/
 
+/*
 .hidden.menu {
 	display: none;
 }
@@ -129,3 +156,4 @@ body.pushable>.pusher {
 		font-size: 1.5em;
 	}
 }
+*/
