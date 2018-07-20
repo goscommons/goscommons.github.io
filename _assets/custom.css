@@ -1,0 +1,159 @@
+/*
+
+> Style to do list:
+- red header
+- Text of the size of summary
+- Light blue: color: #ccffff
+
+> Components to do list
+- Header with image background
+- Book promo with link to the Book
+- How we do it with tools and workflow
+- Illustration for how we do it
+
+*/
+
+
+/*custom css*/
+
+.lblue{
+	color:#ccffff;
+}
+
+/*This one is the background gradient color applied to layer class*/
+.whitebg {
+	/* text-shadow: 2px 2px 10px white; */
+	min-height: 400px;
+	padding: 1em 0em;
+	background: linear-gradient(to right, rgba(18, 18, 255, 0.8) , rgba(255, 25, 10, 0.9));
+}
+
+
+
+.masthead h1.ui.header {
+    margin-top: 1em;
+    margin-bottom: 0em;
+    font-size: 2em;
+    font-weight: normal;
+}
+
+
+body.pushable>.pusher {
+
+		border-top: 3px;
+		box-shadow: -30px -30px;
+		/* background-image: url(img/metabolism_7.png); */
+		background-size:contain;
+		background-repeat: no-repeat;
+		/* background-color: #666666; */
+		/* background: linear-gradient(to right, rgba(138, 18, 255, 0.5) , rgba(255, 166, 38, 0.5)); */
+}
+
+.ui.segment{
+	padding: 3em 3em;
+}
+
+
+
+/*The layer class is created to make a parent container to make possible the image background*/
+
+/* .layer {
+    background-color: rgba(248, 247, 216, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+} */
+.banner{
+		background-image: url(img/bg.jpg);
+		background-size:cover;
+|
+}
+
+/*original css*/
+
+/*
+.hidden.menu {
+	display: none;
+}
+.masthead.segment {
+	min-height: 400px;
+	padding: 1em 0em;
+	background-color: blue;
+}
+.masthead .logo.item img {
+	margin-right: 1em;
+}
+.masthead .ui.menu .ui.button {
+	margin-left: 0.5em;
+}
+.masthead h1.ui.header {
+	margin-top: 3em;
+	margin-bottom: 0em;
+	font-size: 4em;
+	font-weight: normal;
+}
+.masthead h2 {
+	font-size: 1.7em;
+	font-weight: normal;
+}
+.ui.vertical.stripe {
+	border-top-color:#24a3c1;
+	margin-top: 20px;
+	padding: 1.5em 0em;
+}
+.ui.vertical.stripe h3 {
+	font-size: 2em;
+}
+.ui.vertical.stripe .button + h3,
+.ui.vertical.stripe p + h3 {
+	margin-top: 3em;
+}
+.ui.vertical.stripe .floated.image {
+	clear: both;
+}
+.ui.vertical.stripe p {
+	font-size: 1.33em;
+}
+.ui.vertical.stripe .horizontal.divider {
+	margin: 3em 0em;
+}
+.quote.stripe.segment {
+	padding: 0em;
+}
+.quote.stripe.segment .grid .column {
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+.footer.segment {
+	padding: 5em 0em;
+}
+.secondary.pointing.menu .toc.item {
+	display: none;
+}
+@media only screen and (max-width: 700px) {
+	.ui.fixed.menu {
+		display: none !important;
+	}
+	.secondary.pointing.menu .item,
+	.secondary.pointing.menu .menu {
+		display: none;
+	}
+	.secondary.pointing.menu .toc.item {
+		display: block;
+	}
+	.masthead.segment {
+		min-height: 350px;
+
+	}
+	.masthead h1.ui.header {
+		font-size: 2em;
+		margin-top: 1.5em;
+	}
+	.masthead h2 {
+		margin-top: 0.5em;
+		font-size: 1.5em;
+	}
+}
+*/
