@@ -1,4 +1,0 @@
-- [] color-buttons azul: #24a3c1
-- [] background color #faedca
-- [] footer bg:
-- [] id for navbar
