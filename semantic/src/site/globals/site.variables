@@ -1,0 +1,31 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+// Colors
+@primaryColor:#00374f;
+@red :#dd3c29;
+
+@textColor         : #00374f;
+
+@headerFontWeight : regular;
+@fontName          : 'Merriweather';
+@pageFont          : 'Open Sans';
+@fontSize : 18px;
+
+@h1 : unit((91 / 14), rem);
+@h2 : unit((50 / 14), rem);
+@h3 : unit((36 / 14), rem);
+@h4 : unit((15 / 14), rem);
+@h5 : unit((14 / 14), rem);
+
+//buttons
+@defaultBorderRadius:0px;
+// @absoluteBorderRadius : @1px;
+
+
+//Mobile Breakpoints
+@mobileBreakpoint            : 1000px;
+@tabletBreakpoint            : 1000px;
+@computerBreakpoint          : 1000px;
+@largeMonitorBreakpoint      : 1000px;

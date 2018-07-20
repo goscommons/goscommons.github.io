@@ -1,0 +1,6 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+@borderRadius:0px;
+@fontFamily: 'Merriweather';
+@fontWeight: bold;
