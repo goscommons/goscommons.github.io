@@ -13,8 +13,7 @@
 
 */
 
-
-/*custom css*/
+/*custom |css*/
 
 .lblue{
 	color:#ccffff;
@@ -65,6 +64,7 @@ body.pushable>.pusher {
     width: 100%;
     height: 100%;
 } */
+
 .banner{
 		background-image: url(img/bg.jpg);
 		background-size:cover;
@@ -157,3 +157,31 @@ body.pushable>.pusher {
 	}
 }
 */
+@media screen and (max-width: 1206px) and (min-width:1000px) {
+
+	.whitebg .ui.button{
+			width:100%;
+			margin-top: 5px;
+	}
+}
+
+
+@media screen and (max-width: 800px) {
+	.banner{
+			background-image:none;
+	}
+
+	.whitebg {
+		min-height: 400px;
+		padding: 1em 0em;
+		background: linear-gradient(to bottom, rgba(18, 18, 255, 0.8) , rgba(255, 25, 10, 0.9));
+	}
+}
+
+@media screen and (max-width: 600px) {
+
+	.whitebg .ui.button{
+			width:100%;
+			margin-top: 5px;
+	}
+}
