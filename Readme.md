@@ -1,6 +1,6 @@
 # Hi! We warmly welcome you to the main repository of the Open Source things initiative
 ## This is a project focused on the design documentation and development of open hardware products. See our intro poster, to get a quick insight on what this is about.
-![](assets/images/opencanvas-01.jpg)
+![](assets/images/OpenCanvas-01.jpg)
 
 ### Why open hardware appliances and industrial machines
 * Open access to the knowledge and DNA of goods, services and products, allow us to enjoy social wealth and share responsibility.
