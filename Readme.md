@@ -1,6 +1,6 @@
 # Hi! We warmly welcome you to the main repository of the Open Source things initiative
 ## This is a project focused on the design documentation and development of open hardware products. See our intro poster, to get a quick insight on what this is about.
-![](_assets/images/intro_poster.png)
+![](assets/images/opencanvas-01.jpg)
 
 ### Why open hardware appliances and industrial machines
 * Open access to the knowledge and DNA of goods, services and products, allow us to enjoy social wealth and share responsibility.
@@ -10,7 +10,7 @@
 ### Get involved
 ### [Read the contributing guidelines](https://github.com/goscommons/goscommons.github.io/blob/master/CONTRIBUTING.md)
 ### [Read our code of conduct](https://github.com/goscommons/goscommons.github.io/blob/master/CODE_OF_CONDUCT.md)
-![The open design workflow](_assets/images/workflow.png)Become a contributor and find a role that matches your capabilities.
+![The open design workflow](assets/images/workflow-imp.png)Become a contributor and find a role that matches your capabilities.
 
 ### Want to know more about the project and where we are?
 #### Visit [our website](https://goscommons.github.io) and our  [roadmap](https://github.com/goscommons/goscommons.github.io/projects/1).
