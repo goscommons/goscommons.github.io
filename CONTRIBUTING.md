@@ -13,7 +13,7 @@ Become an open sorcerer and cultivate this craft. Learn it, practice it, teach i
 There are several ways in which you can participate. Read carefully the infographic and then the detailed explanations below.
 
 
-![](_assets/images/workflow.png)
+![](assets/images/workflow-imp.png)
 
 ## 1. Join a design and documentation team working on a machine.
 
