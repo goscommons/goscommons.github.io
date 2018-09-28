@@ -1100,8 +1100,10 @@ header h1::after {
   }
 }
 
-@@media (max-width: 400px) {
+@media (max-width: 400px) {
 .star{
 	left: -195% !important;
 	}
+
+
 }
